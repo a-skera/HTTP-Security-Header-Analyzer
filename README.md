@@ -1,9 +1,3 @@
-# HTTP-Security-Header-Analyzer Overview 
-Tool that checks a website's HTTP response headers and identifies missing security protections.
-
-
-
-
 # HTTP Security Header Analyzer
 
 A Python-based security utility that analyzes HTTP
